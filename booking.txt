@@ -1,0 +1,8 @@
+----- Cinema Booking Bill -----
+Customer Name: h
+Movie: The Odyssey
+Tickets: 2
+Fare before discount: 550.0
+Final fare: 550.0
+-------------------------------
+
